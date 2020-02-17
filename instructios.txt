@@ -17,5 +17,4 @@ keras_applications ==> 1.0.8
 keras_preprocessing ==> 1.1.0
 your environmment should have PIL(pillow) library
 
-
-PLEASE DON'T CHANGE THE CODE
+DON'T CHANGE THE CODE IN ANY CIRCUMSTANCES
