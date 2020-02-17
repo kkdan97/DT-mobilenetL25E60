@@ -1,0 +1,21 @@
+first stage of our project is pre-processing so open preproc.ipynb
+CREATE A NEW FOLDER CALLED cropped.
+the images should be in train_images folder.
+the images in the train_images folder will be cleaned and saved in cropped folder.
+the train.csv in the kaggle dataset will have 5 classifications 
+it will be change to TWO classifications 1 & 0
+1==> have Diabet
+0==> no Diabet
+the new csv will be saved as new_train.csv
+
+
+training the model etc... will be done in mobilenetL24.ipynb
+we are using the mobilenet model
+USE tensorflow version==> 1.14
+Keras==> 2.2.4
+keras_applications ==> 1.0.8
+keras_preprocessing ==> 1.1.0
+your environmment should have PIL(pillow) library
+
+
+PLEASE DON'T CHANGE THE CODE
